@@ -2,7 +2,7 @@
       <nav class="navbar navbar-expand-lg justify-content-between navbar-dark border-bottom-0 bg-primary-3" data-sticky="top">
         <div class="container">
           <div class="col flex-fill px-0 d-flex justify-content-between">
-            <a class="navbar-brand mr-0 fade-page" href="index.html">
+            <a class="navbar-brand mr-0 fade-page" href="https://dark-network.eu/">
               <img src="logo.png" alt="Logo" width="160" height="50">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,7 +16,7 @@
               <ul class="navbar-nav">
 
                 <li class="nav-item">
-                  <a href="index.html" class="nav-link">Startseite</a>
+                  <a href="https://dark-network.eu/" class="nav-link">Startseite</a>
                 </li>
 
                 <li class="nav-item dropdown">
@@ -24,13 +24,13 @@
                   <div class="dropdown-menu row">
                     <div class="col-auto" data-dropdown-content>
                       <div class="dropdown-grid-menu">
-                        <a href="./partner.html" class="dropdown-item fade-page">Partner-Übersicht</a>
-                        <a href="./beastlp.html" class="dropdown-item fade-page">BeastLP</a>
-                        <a href="./derhoffy.html" class="dropdown-item fade-page">DerHoffy</a>
-                        <a href="./thirio.html" class="dropdown-item fade-page">Thirio.de</a>
-                        <a href="./dark-news.html" class="dropdown-item fade-page">Dark-News.eu</a>
-                        <a href="./black-host.html" class="dropdown-item fade-page">Black-Host.eu</a>
-                        <a href="./musikbots.html" class="dropdown-item fade-page">Musikbots.de<span class="badge badge-primary ml-2">New</span></a>
+                        <a href="./partner" class="dropdown-item fade-page">Partner-Übersicht</a>
+                        <a href="./beastlp" class="dropdown-item fade-page">BeastLP</a>
+                        <a href="./derhoffy" class="dropdown-item fade-page">DerHoffy</a>
+                        <a href="./thirio" class="dropdown-item fade-page">Thirio.de</a>
+                        <a href="./dark-news" class="dropdown-item fade-page">Dark-News.eu</a>
+                        <a href="./black-host" class="dropdown-item fade-page">Black-Host.eu</a>
+                        <a href="./musikbots" class="dropdown-item fade-page">Musikbots.de<span class="badge badge-primary ml-2">New</span></a>
                       </div>
                     </div>
                   </div>
@@ -41,7 +41,7 @@
                 </li>
 
                 <li class="nav-item">
-                  <a href="impressum.html" class="nav-link">Impressum</a>
+                  <a href="impressum" class="nav-link">Impressum</a>
                 </li>
               
               </ul>

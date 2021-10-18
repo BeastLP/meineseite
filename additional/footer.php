@@ -10,13 +10,13 @@
         <div class="row mb-4">
           <div class="col">
             <ul class="nav justify-content-center">
-              <li class="nav-item"><a href="index.html" class="nav-link">Startseite</a>
+              <li class="nav-item"><a href="https://dark-network.eu/" class="nav-link">Startseite</a>
               </li>
-              <li class="nav-item"><a href="partner.html" class="nav-link">Partner</a>
+              <li class="nav-item"><a href="partner" class="nav-link">Partner</a>
               </li>
               <li class="nav-item"><a href="#" class="nav-link">Support</a>
               </li>
-              <li class="nav-item"><a href="impressum.html" class="nav-link">Impressum</a>
+              <li class="nav-item"><a href="impressum" class="nav-link">Impressum</a>
               </li>
             </ul>
           </div>
