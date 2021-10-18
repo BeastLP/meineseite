@@ -212,7 +212,7 @@
         <div class="carousel-cell col-xl-3 col-lg-4 col-md-3 col-9 pb-1">
           <div class="card card-body">
             <div class="mb-3 mb-md-4">
-              <a href="./black-host.html"><img src="https://pbs.twimg.com/profile_images/1385615899525357572/eUgKmy8n_400x400.jpg" alt="Black-Host.eu" class="avatar-lg"></a>
+              <a href="./black-host"><img src="https://pbs.twimg.com/profile_images/1385615899525357572/eUgKmy8n_400x400.jpg" alt="Black-Host.eu" class="avatar-lg"></a>
             </div>
             <div class="flex-grow-1 pt-md-3">
               <h4>Black-Host.eu</h4>
@@ -224,7 +224,7 @@
         <div class="carousel-cell col-xl-3 col-lg-4 col-md-3 col-9 pb-1">
           <div class="card card-body">
             <div class="mb-3 mb-md-4">
-              <a href="./thirio.html"><img src="https://pbs.twimg.com/profile_images/1379339490389602304/9IWLBw7K_400x400.jpg" alt="Thirio.de" class="avatar-lg"></a>
+              <a href="./thirio"><img src="https://pbs.twimg.com/profile_images/1379339490389602304/9IWLBw7K_400x400.jpg" alt="Thirio.de" class="avatar-lg"></a>
             </div>
             <div class="flex-grow-1 pt-md-3">
               <h4>Thrio.de</h4>
@@ -236,7 +236,7 @@
         <div class="carousel-cell col-xl-3 col-lg-4 col-md-3 col-9 pb-1">
           <div class="card card-body">
             <div class="mb-3 mb-md-4">
-              <a href="./dark-news.html"><img src="https://pbs.twimg.com/profile_images/1434232574570811395/8Xtcm9Dc_400x400.jpg" alt="Dark-News.eu" class="avatar-lg"></a>
+              <a href="./dark-news"><img src="https://pbs.twimg.com/profile_images/1434232574570811395/8Xtcm9Dc_400x400.jpg" alt="Dark-News.eu" class="avatar-lg"></a>
             </div>
             <div class="flex-grow-1 pt-md-3">
               <h4>Dark-News.eu</h4>
@@ -248,7 +248,7 @@
         <div class="carousel-cell col-xl-3 col-lg-4 col-md-3 col-9 pb-1">
           <div class="card card-body">
             <div class="mb-3 mb-md-4">
-              <a href="./beastlp.html"><img src="https://media.discordapp.net/attachments/702470474981965864/889977341701414982/Avatar-quadrat.png?width=676&height=676" alt="BeastLP" class="avatar-lg"></a>
+              <a href="./beastlp"><img src="https://media.discordapp.net/attachments/702470474981965864/889977341701414982/Avatar-quadrat.png?width=676&height=676" alt="BeastLP" class="avatar-lg"></a>
             </div>
             <div class="flex-grow-1 pt-md-3">
               <h4>BeastLP</h4>
@@ -260,7 +260,7 @@
         <div class="carousel-cell col-xl-3 col-lg-4 col-md-3 col-9 pb-1">
           <div class="card card-body">
             <div class="mb-3 mb-md-4">
-              <a href="./derhoffy.html"><img src="https://media.discordapp.net/attachments/702470474981965864/889952210870480896/Unbenannt.png?width=676&height=676" alt="DerHoffy" class="avatar-lg"></a>
+              <a href="./derhoffy"><img src="https://media.discordapp.net/attachments/702470474981965864/889952210870480896/Unbenannt.png?width=676&height=676" alt="DerHoffy" class="avatar-lg"></a>
             </div>
             <div class="flex-grow-1 pt-md-3">
               <h4>DerHoffy</h4>
@@ -272,7 +272,7 @@
         <div class="carousel-cell col-xl-3 col-lg-4 col-md-3 col-9 pb-1">
           <div class="card card-body">
             <div class="mb-3 mb-md-4">
-              <a href="./musikbots.html"><img src="https://musikbots.de/icon-b.png" alt="Musikbots.de" class="avatar-lg"></a>
+              <a href="./musikbots"><img src="https://musikbots.de/icon-b.png" alt="Musikbots.de" class="avatar-lg"></a>
             </div>
             <div class="flex-grow-1 pt-md-3">
               <h4>Musikbots.de</h4>
