@@ -316,7 +316,7 @@ $site_name = 'Home';
               <li data-aos="fade-left">
                 <div class="process-circle bg-primary"></div>
                 <div>
-                  <span class="text-small text-muted">11. Oktober 2021</span>
+                  <span class="text-small text-muted">19. Oktober 2021</span>
                   <h5 class="mb-0">Fertigstellung der Homepage</h5>
                 </div>
               </li>
