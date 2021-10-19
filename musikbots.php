@@ -29,13 +29,13 @@ $aboutus = 'Beschreibung folgt...';
 
 
 // Links
-$link1 = 'https://dark-news.eu/';
+$link1 = 'https://musikbots.de/';
 $link1_img = 'https://dark-network.eu/assets/img/icons/theme/social/google.svg';
 
-$link2 = 'https://twitter.com/DarkNewsEu';
+$link2 = 'https://twitter.com/MusikbotsDE';
 $link2_img = 'https://dark-network.eu/assets/img/icons/social/twitter.svg';
 
-$link3 = 'https://discord.gg/bsCAR6dYAr';
+$link3 = 'https://musikbots.de/discord';
 $link3_img = 'https://dark-network.eu/assets/img/logos/brand/Discord-Logo-White.svg';
 
 ?>
