@@ -3,7 +3,7 @@
 
 // Social des Partner
 $name = 'Musikbots.de';
-$desc = 'Dark-News eine News-Seite. Dort sind immer die neusten News zum Thema Gaming, Radio und vielem mehr zu finden.';
+$desc = 'Musikbots.de ist ein Free-Musikbot Hosting';
 $img_url = 'https://pbs.twimg.com/profile_banners/1389691856292810752/1630875175/1500x500';
 
 // Informationen
