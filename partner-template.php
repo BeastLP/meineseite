@@ -58,7 +58,7 @@ $site_name = $name;
             </div>
             <div class="mb-3">
               <h6 class="mb-1">Website</h6>
-              <a href="https:/dark-news.eu" target="_blank">https:/<?= $name ?>/</a>
+              <a href="https:/<?= $name ?>" target="_blank">https:/<?= $name ?>/</a>
             </div>
           </div>
         </div>
