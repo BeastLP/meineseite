@@ -12,7 +12,7 @@ $leiter = 'Simba';
 $stand = '14.10.2021';
 
 // Daten
-$data_1 = '4,317';
+$data_1 = '4317';
 $data_1_name = 'Seitenaufrufe';
 
 $data_2 = '34';
@@ -21,7 +21,7 @@ $data_2_name = 'Partner';
 $data_3 = '177';
 $data_3_name = 'Twitter-Follower';
 
-$data_4 = '99.9%';
+$data_4 = '99%';
 $data_4_name = 'Serveruptime in %';
 
 // Weitere Infos
