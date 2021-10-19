@@ -1,6 +1,5 @@
 <?php
 
-
 // Social des Partner
 $name = 'Black-Host.eu';
 $desc = 'Black-Host.eu bietet dir eine perfekte und redunante Lösung dein Unternehmen dort Hosten zu können. Durch Black-Host.eu hast du eine leitungsstarke und ausfallfreie Umgebung für deine Server.';

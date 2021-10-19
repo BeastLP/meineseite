@@ -1,6 +1,5 @@
 <?php
 
-
 // Social des Partner
 $name = 'Dark-News.eu';
 $desc = 'Dark-News eine News-Seite. Dort sind immer die neusten News zum Thema Gaming, Radio und vielem mehr zu finden.';
