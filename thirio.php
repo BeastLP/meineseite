@@ -30,13 +30,13 @@ $aboutus = ' Wir sind ein Community-Server mit Fokus auf Gaming. Derzeit ist ein
 
 // Links
 $link1 = 'https://thirio.de';
-$link1_img = '';
+$link1_img = 'https://dark-network.eu/assets/img/icons/theme/social/google.svg';
 
 $link2 = 'https://twitter.com/ThirioDE';
-$link2_img = '';
+$link2_img = 'https://dark-network.eu/assets/img/icons/social/twitter.svg';
 
 $link3 = 'https://discord.thirio.de';
-$link3_img = '';
+$link3_img = 'https://dark-network.eu/assets/img/logos/brand/Discord-Logo-White.svg';
 
 ?>
 
