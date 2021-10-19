@@ -30,13 +30,13 @@ $aboutus = 'Wir sind Dark-News eine News-Seite. Bei uns findest du immer die neu
 
 // Links
 $link1 = 'https://dark-news.eu/';
-$link1_img = '';
+$link1_img = 'https://dark-network.eu/assets/img/icons/theme/social/google.svg';
 
 $link2 = 'https://twitter.com/DarkNewsEu';
-$link2_img = '';
+$link2_img = 'https://dark-network.eu/assets/img/icons/social/twitter.svg';
 
 $link3 = 'https://discord.gg/bsCAR6dYAr';
-$link3_img = '';
+$link3_img = 'https://dark-network.eu/assets/img/logos/brand/Discord-Logo-White.svg';
 
 ?>
 

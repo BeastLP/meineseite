@@ -2,27 +2,27 @@
 
 
 // Social des Partner
-$name = 'Dark-News.eu';
-$desc = 'Dark-News eine News-Seite. Dort sind immer die neusten News zum Thema Gaming, Radio und vielem mehr zu finden.';
-$img_url = 'https://pbs.twimg.com/profile_banners/1389691856292810752/1630875175/1500x500';
+$name = 'Black-Host.eu';
+$desc = 'Black-Host.eu bietet dir eine perfekte und redunante Lösung dein Unternehmen dort Hosten zu können. Durch Black-Host.eu hast du eine leitungsstarke und ausfallfreie Umgebung für deine Server.';
+$img_url = 'https://pbs.twimg.com/profile_banners/1228626052823625728/1619021905/1500x500';
 
 // Informationen
-$kat = 'News';
-$leiter = 'BeastLP';
+$kat = 'Hosting';
+$leiter = 'Simba';
 $stand = '14.10.2021';
 
 // Daten
-$data_1 = '10';
+$data_1 = '4,317';
 $data_1_name = 'Seitenaufrufe';
 
-$data_2 = '20';
+$data_2 = '34';
 $data_2_name = 'Partner';
 
-$data_3 = '48';
+$data_3 = '177';
 $data_3_name = 'Twitter-Follower';
 
-$data_4 = '287';
-$data_4_name = 'Twitter-Profilaufrufe';
+$data_4 = '99.9%';
+$data_4_name = 'Serveruptime in %';
 
 // Weitere Infos
 $aboutus = '
@@ -58,13 +58,13 @@ $aboutus = '
 
 // Links
 $link1 = 'https://dark-news.eu/';
-$link1_img = '';
+$link1_img = 'https://dark-network.eu/assets/img/icons/theme/social/google.svg';
 
 $link2 = 'https://twitter.com/DarkNewsEu';
-$link2_img = '';
+$link2_img = 'https://dark-network.eu/assets/img/icons/social/twitter.svg';
 
 $link3 = 'https://discord.gg/bsCAR6dYAr';
-$link3_img = '';
+$link3_img = 'https://dark-network.eu/assets/img/logos/brand/Discord-Logo-White.svg';
 
 ?>
 
