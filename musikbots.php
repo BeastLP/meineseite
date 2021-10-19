@@ -4,7 +4,7 @@
 // Social des Partner
 $name = 'Musikbots.de';
 $desc = 'Musikbots.de ist ein Free-Musikbot Hosting';
-$img_url = 'https://pbs.twimg.com/profile_banners/1389691856292810752/1630875175/1500x500';
+$img_url = 'https://pbs.twimg.com/profile_banners/1444439790519214085/1633218689/1500x500';
 
 // Informationen
 $kat = 'Hosting';
