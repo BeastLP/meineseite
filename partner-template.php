@@ -127,7 +127,7 @@ $site_name = $name;
                   <a href="<?= $link2 ?>" class="btn btn-round btn-primary mx-1" target="_blank">
                   <img class="icon icon-sm" src="<?= $link2_img ?>" alt="<?= $link2 ?>" data-inject-svg />
                 </a>
-                <a href="<?= $link3 ?>r" class="btn btn-round btn-primary mx-1" target="_blank">
+                <a href="<?= $link3 ?>" class="btn btn-round btn-primary mx-1" target="_blank">
                   <img class="icon icon-sm" src="<?= $link3_img ?>" alt="<?= $link3 ?>" data-inject-svg />
                 </a>
               </div>
