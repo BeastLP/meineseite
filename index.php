@@ -30,14 +30,14 @@ $site_name = 'Home';
               <div class="mb-4">
                 <span class="h1">Partner</span>
               </div>
-              <a href="#" class="btn btn-lg btn-primary">Zu der Partner-Liste</a>
+              <a href="#" class="btn btn-lg btn-primary-2">Zu der Partner-Liste</a>
             </div>
           </div>
         </div>
       </div>
       <div class="decoration-wrapper d-none d-md-block">
         <div class="decoration top right scale-4">
-          <img class="bg-primary-2" src="assets/img/decorations/deco-blob-2.svg" alt="deco-blob-2 decoration" data-inject-svg />
+          <img class="bg-primary" src="assets/img/decorations/deco-blob-2.svg" alt="deco-blob-2 decoration" data-inject-svg />
         </div>
       </div>
     </section>
