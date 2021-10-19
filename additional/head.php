@@ -30,9 +30,9 @@
     <script type="text/javascript">
       window.addEventListener("load", function () {    document.querySelector('body').classList.add('loaded');  });
     </script>
-    <link href="assets/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
-    <link rel="preload" as="font" href="assets/fonts/Inter-UI-upright.var.woff2" type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" as="font" href="assets/fonts/Inter-UI.var.woff2" type="font/woff2" crossorigin="anonymous">
+    <link href="https://dark-news.eu/assets/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="preload" as="font" href="https://dark-news.eu/assets/fonts/Inter-UI-upright.var.woff2" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" href="https://dark-news.eu/assets/fonts/Inter-UI.var.woff2" type="font/woff2" crossorigin="anonymous">
   </head>
 
   <body>
