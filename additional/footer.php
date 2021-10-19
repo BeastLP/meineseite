@@ -44,9 +44,9 @@
       <img class="icon" src="assets/img/icons/theme/navigation/arrow-up.svg" alt="arrow-up icon" data-inject-svg />
     </a>
     <!-- Required vendor scripts (Do not remove) -->
-    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
-    <script type="text/javascript" src="assets/js/popper.min.js"></script>
-    <script type="text/javascript" src="assets/js/bootstrap.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/popper.min.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/bootstrap.js"></script>
 
     <!-- 
              This appears in the demo only.  This script ensures our demo countdowns are always showing a date in the future 
@@ -65,15 +65,15 @@
     <!-- Optional Vendor Scripts (Remove the plugin script here and comment initializer script out of index.js if site does not use that feature) -->
 
     <!-- AOS (Animate On Scroll - animates elements into view while scrolling down) -->
-    <script type="text/javascript" src="https://dark-news.eu/assets/js/aos.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/aos.js"></script>
     <!-- Clipboard (copies content from browser into OS clipboard) -->
-    <script type="text/javascript" src="https://dark-news.eu/assets/js/clipboard.min.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/clipboard.min.js"></script>
     <!-- Fancybox (handles image and video lightbox and galleries) -->
-    <script type="text/javascript" src="https://dark-news.eu/assets/js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/jquery.fancybox.min.js"></script>
     <!-- Flatpickr (calendar/date/time picker UI) -->
-    <script type="text/javascript" src="https://dark-news.eu/assets/js/flatpickr.min.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/flatpickr.min.js"></script>
     <!-- Flickity (handles touch enabled carousels and sliders) -->
-    <script type="text/javascript" src="https://dark-news.eu/assets/js/flickity.pkgd.min.js"></script>
+    <script type="text/javascript" src="https://dark-network.eu/assets/js/flickity.pkgd.min.js"></script>
     <!-- Ion rangeSlider (flexible and pretty range slider elements) -->
     <script type="text/javascript" src="https://dark-network.eu/assets/js/ion.rangeSlider.min.js"></script>
     <!-- Isotope (masonry layouts and filtering) -->
