@@ -2,7 +2,7 @@
 
 $name = 'DerHoffy';
 $desc = ' schreibt...';
-$img_url = 'https://pbs.twimg.com/profile_banners/1288233960133230592/1634849867/1500x500'
+$img_url = 'https://pbs.twimg.com/profile_banners/1288233960133230592/1634849867/1500x500';
 $link = 'https://Instagram.com/hoffy._._';
 
 // Informationen
