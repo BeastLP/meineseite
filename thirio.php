@@ -4,7 +4,7 @@
 // Social des Partner
 $name = 'Thirio.de';
 $desc = ' Thirio.de ist ein Community-Server mit Fokus auf Gaming.';
-$img_url = 'https://pbs.twimg.com/profile_banners/1389691856292810752/1630875175/1500x500';
+$img_url = 'https://pbs.twimg.com/profile_banners/1278757214568828935/1617444901/1500x500';
 $link = $name;
 
 // Informationen
