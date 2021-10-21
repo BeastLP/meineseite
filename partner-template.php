@@ -54,7 +54,7 @@ $site_name = $name;
             </div>
             <div class="mb-3">
               <h6 class="mb-1">Geleitet von:</h6>
-              <span><a href="<?= $leiter ?>"><?= $leiter ?></a></span>
+              <span><a href="<?= $link ?>"><?= $leiter ?></a></span>
             </div>
             <div class="mb-3">
               <h6 class="mb-1">Website</h6>
