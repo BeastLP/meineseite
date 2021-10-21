@@ -26,6 +26,7 @@ $data_4 = '1059';
 $data_4_name = 'Twitter-Profilaufrufe';
 
 // Weitere Infos
+$überschrift = 'Was steckt hinter uns?';
 $aboutus = 'Beschreibung folgt...';
 
 

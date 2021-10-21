@@ -26,6 +26,7 @@ $data_4 = '627';
 $data_4_name = 'Twitter-Profilaufrufe';
 
 // Weitere Infos
+$überschrift = 'Was steckt hinter uns?';
 $aboutus = ' Wir sind ein Community-Server mit Fokus auf Gaming. Derzeit ist ein Minecraft-Netzwerk geplant welcher sich noch in der Entwickung befindet.';
 
 

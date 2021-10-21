@@ -102,7 +102,7 @@ $site_name = $name;
           <div class="col-xl-7 col-lg-8 col-md-10">
             <article class="article">
              
-              <h1>Was steckt hinter uns?</h1>
+              <h1><?= $überschrift ?></h1>
               <br>
               <p><?= $aboutus ?>
               </p>

@@ -3,7 +3,7 @@
 
 // Social des Partner
 $name = 'BeastLP';
-$desc = ' Thirio.de ist ein Community-Server mit Fokus auf Gaming.';
+$desc = 'Ich bin BeastLP aka Fabian und lade aus Spaß Videos hoch und streame auf Twitch.';
 $img_url = 'https://pbs.twimg.com/profile_banners/1183629310395146241/1610303914/1500x500';
 $link = 'beastlp.eu';
 
@@ -26,7 +26,8 @@ $data_4 = '190';
 $data_4_name = 'Twitch-Follower';
 
 // Weitere Infos
-$aboutus = ' Wir sind ein Community-Server mit Fokus auf Gaming. Derzeit ist ein Minecraft-Netzwerk geplant welcher sich noch in der Entwickung befindet.';
+$überschrift = 'Über mich';
+$aboutus = 'Ich bin BeastLP aka Fabian und lade aus Spaß Videos hoch und streame. Außerdem führe ich gerne eigene Projekte und probiere mich viel an neuem aus.';
 
 
 // Links

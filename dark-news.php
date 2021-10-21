@@ -25,6 +25,7 @@ $data_4 = '287';
 $data_4_name = 'Twitter-Profilaufrufe';
 
 // Weitere Infos
+$überschrift = 'Was steckt hinter uns?';
 $aboutus = 'Wir sind Dark-News eine News-Seite. Bei uns findest du immer die neusten News zum Thema Gaming, Radio und vielem mehr. Das Projekt Dark-News startete am 04.05.2021 und wird von BeastLP geleitet. Bisher ist Dark-News nur eine News-Seite auf der Plattform Twitter, doch vielleicht kommt ja noch was.';
 
 

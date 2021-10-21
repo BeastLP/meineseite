@@ -24,6 +24,7 @@ $data_4 = '50';
 $data_4_name = 'Twitch-Follower';
 
 // Weitere Infos
+$überschrift = 'Über mich';
 $aboutus = ' schreibt....';
 
 

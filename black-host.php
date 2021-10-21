@@ -25,6 +25,7 @@ $data_4 = '99%';
 $data_4_name = 'Serveruptime in %';
 
 // Weitere Infos
+$überschrift = 'Was steckt hinter uns?';
 $aboutus = '
 
 <br>
