@@ -21,7 +21,7 @@ $site_name = $name;
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item">
-                  <a href="partner.html">Partner-Übersicht</a>
+                  <a href="partner">Partner-Übersicht</a>
                 </li>
                 <li class="breadcrumb-item">
                   <a href="#"><?= $name ?></a>
