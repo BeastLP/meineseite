@@ -4,6 +4,7 @@
 $name = 'Black-Host.eu';
 $desc = 'Black-Host.eu bietet dir eine perfekte und redunante Lösung dein Unternehmen dort Hosten zu können. Durch Black-Host.eu hast du eine leitungsstarke und ausfallfreie Umgebung für deine Server.';
 $img_url = 'https://pbs.twimg.com/profile_banners/1228626052823625728/1619021905/1500x500';
+$link = $name;
 
 // Informationen
 $kat = 'Hosting';
