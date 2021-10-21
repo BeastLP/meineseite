@@ -2,7 +2,7 @@
 
 
 // Social des Partner
-$name = 'BeastLP';
+$name = 'BeastLP.eu';
 $desc = ' Thirio.de ist ein Community-Server mit Fokus auf Gaming.';
 $img_url = 'https://pbs.twimg.com/profile_banners/1183629310395146241/1610303914/1500x500';
 $link = 'beastlp.eu'
