@@ -15,10 +15,10 @@ $stand = '14.10.2021';
 $data_1 = '4317';
 $data_1_name = 'Seitenaufrufe';
 
-$data_2 = '34';
+$data_2 = '37';
 $data_2_name = 'Partner';
 
-$data_3 = '177';
+$data_3 = '191';
 $data_3_name = 'Twitter-Follower';
 
 $data_4 = '99%';

@@ -19,7 +19,7 @@ $data_1_name = 'Twitter-Impressionen Ø/Mon';
 $data_2 = '17';
 $data_2_name = 'Partner';
 
-$data_3 = '18';
+$data_3 = '28';
 $data_3_name = 'Twitter-Follower';
 
 $data_4 = '1059';
